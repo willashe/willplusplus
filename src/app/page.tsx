@@ -19,10 +19,6 @@ export default function Home() {
         </div>
 
         <Skillset />
-
-        <a href="/rpg-battle" className={styles.attackIcon}>
-          RPG Battle Sim
-        </a>
       </div>
     </main>
   );
