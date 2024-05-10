@@ -1,5 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
 import ContactInfo from "@/components/ContactInfo";
 import Skillset from "@/components/Skillset";
 
