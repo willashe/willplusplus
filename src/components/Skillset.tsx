@@ -141,7 +141,7 @@ const Skillset = () => (
       <li>
         <a href="/rpg-battle">
           <Image
-            src="/images/sword-icon.png"
+            src="./images/sword-icon.png"
             alt="RPG Battle icon"
             title="RPG Battle"
             height="30"
